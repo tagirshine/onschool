@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2641373503">
+    <data-source source="LOCAL" name="Rails onschool: development" uuid="1401f4a3-272c-4ff5-be87-89da4ab75984">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/onschool</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdedfc5dfc5dfd8</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
